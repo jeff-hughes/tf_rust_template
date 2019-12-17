@@ -1,1 +1,4 @@
 trained_model
+tf_model_production/data
+tf_model_production/target
+tf_model_production/Cargo.lock
